@@ -3,7 +3,6 @@
 Create a matrix:
 
 ```
-// Funkcja generująca macierz węzłową:
 static std::unordered_map<int, std::unordered_map<int, double>> Generate_nodal_matrix(const std::vector<Element>& elements) 
 {
     int _matrixSize = 0;
