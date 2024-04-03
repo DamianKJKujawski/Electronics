@@ -34,3 +34,7 @@ static std::unordered_map<int, std::unordered_map<int, double>> Generate_nodal_m
     return _nodal_matrix;
 }
 ```
+
+// TODO:
+
+![image](https://github.com/DamianKJKujawski/Electronics/assets/160174331/ab041ef9-1881-44cb-9b89-021ac249767e)
