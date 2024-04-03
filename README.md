@@ -2,7 +2,7 @@
 
 Create a matrix:
 
-![image](https://github.com/DamianKJKujawski/Electronics/assets/160174331/03b89884-ebc4-4127-bd93-93ad42ed6b25)
+![test](https://github.com/DamianKJKujawski/Electronics/assets/160174331/a20b4c6e-286f-4a2d-a0db-c9ab9e6872de)
 
 ```
 static std::unordered_map<int, std::unordered_map<int, double>> Generate_nodal_matrix(const std::vector<Element>& elements) 
