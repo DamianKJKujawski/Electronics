@@ -1,6 +1,14 @@
 GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-Projects](https://github.com/DamianKJKujawski/Ideas-Projects) [MicroOS](https://github.com/DamianKJKujawski/MicroOS) [Electronics](https://github.com/DamianKJKujawski/Electronics) [Design Patterns](https://github.com/DamianKJKujawski/DesignPatterns) [MulticorePLCUnit](https://github.com/DamianKJKujawski/MulticorePLCUnit)
 
-## Step 1:
+## My Circuits Projects:
+
+### Energy Harvester:
+
+![EnergyHarvester](https://github.com/DamianKJKujawski/Electronics/assets/160174331/aa29518a-8e5e-439b-899c-26476b152e70)
+
+## Matrix Based Calculations:
+
+### Step 1:
 
 Create a matrix:
 
