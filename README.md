@@ -29,6 +29,7 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 ### Integrator:
 
 ![Integrator](https://github.com/DamianKJKujawski/Electronics/assets/160174331/9ed7bf47-b429-4078-994c-abbf4b02e418)
+![image](https://github.com/DamianKJKujawski/Electronics/assets/160174331/5e479710-9908-405c-a618-61153919bc3e)
 
 ## Matrix Based Computations:
 
