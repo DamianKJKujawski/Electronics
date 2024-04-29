@@ -6,7 +6,7 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 
 ![EnergyHarvester](https://github.com/DamianKJKujawski/Electronics/assets/160174331/aa29518a-8e5e-439b-899c-26476b152e70)
 
-## Matrix Based Calculations:
+## Matrix Based Computations:
 
 ### Step 1:
 
