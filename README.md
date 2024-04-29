@@ -6,6 +6,22 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 
 ![EnergyHarvester](https://github.com/DamianKJKujawski/Electronics/assets/160174331/aa29518a-8e5e-439b-899c-26476b152e70)
 
+### Measuring Key:
+
+![image](https://github.com/DamianKJKujawski/Electronics/assets/160174331/4978b6a8-224e-4489-80c5-559ec65f97e9)
+
+### RMS-DC:
+
+![image](https://github.com/DamianKJKujawski/Electronics/assets/160174331/c0625742-801d-42d7-80d7-0df6dd739875)
+
+### Input Voltage Averaging:
+
+![image](https://github.com/DamianKJKujawski/Electronics/assets/160174331/552a2721-1150-4b00-b61a-6610dc3066ee)
+
+### Power Supply:
+
+![image](https://github.com/DamianKJKujawski/Electronics/assets/160174331/da543c2d-a200-40cf-9839-0b0436748f29)
+
 ## Matrix Based Computations:
 
 ### Step 1:
